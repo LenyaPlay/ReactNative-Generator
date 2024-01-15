@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactNative Generator", "ReactNative Generator\ReactNative Generator.csproj", "{D475A49D-C36C-457A-AEE6-B5DAAA636081}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D475A49D-C36C-457A-AEE6-B5DAAA636081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D475A49D-C36C-457A-AEE6-B5DAAA636081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D475A49D-C36C-457A-AEE6-B5DAAA636081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D475A49D-C36C-457A-AEE6-B5DAAA636081}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2629EFBB-5D22-4EBA-B5D6-17ABB79DB47B}
+	EndGlobalSection
+EndGlobal
